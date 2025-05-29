@@ -71,10 +71,4 @@ Press `q` to quit the webcam stream.
 - Models were trained separately and must be in the same directory as the scripts.
 - Input image files (`kat2.jpg`, `image2.jpg`, etc.) are expected to be in the root folder.
 
-## 📬 Contact
 
-For issues or improvements, feel free to contribute or raise an issue.
-
----
-
-Enjoy experimenting with AI-powered age and gender estimation! 🧠📷
